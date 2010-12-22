@@ -19,7 +19,7 @@ project and any kind of help is appreciated.
 
 =head2 Marketing
 
-You don't have to start by hacking the code, spreadign the good words in
+You don't have to start by hacking the code, spreading the good words in
 valuable as well. If you have a blog, just feel free to speak about Dancer.
 
 If you're a twitter user, you can tweet about it with the hashtag C<#perl>.
